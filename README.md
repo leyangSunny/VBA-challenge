@@ -4,6 +4,7 @@ Sub Stock_Caculate()
 
 
 ' Set Ws as a worksheet object variable.
+
     Dim Ws As Worksheet
     Dim Ticker_Name As String
     Dim Total_Ticker_Volume As Double
