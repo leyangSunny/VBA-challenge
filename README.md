@@ -1,9 +1,7 @@
-# VBA-challenge
-Excel VBA assignment 2
+'# VBA-challenge
+'Excel VBA assignment 2
+
 Sub Stock_Caculate()
-
-
-' Set Ws as a worksheet object variable.
 
     Dim Ws As Worksheet
     Dim Ticker_Name As String
@@ -114,6 +112,5 @@ Sub Stock_Caculate()
             End If
         Next i
      Next Ws
-
 End Sub
 
